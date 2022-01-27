@@ -5,7 +5,9 @@ let output = document.getElementById("output");
 const closeChars = new Map([
     ['{', '}'],
     ['[', ']'],
-    ['(', ')']
+    ['(', ')'],
+    ['\'', '\''],
+    ['\"', '\"']
   ]);
       
   
