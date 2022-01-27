@@ -1,0 +1,1 @@
+console.log("xin chao, day la ngon ngu lap trinh bang tieng viet")
