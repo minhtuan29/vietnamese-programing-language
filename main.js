@@ -10,6 +10,7 @@ const closeChars = new Map([
     ['\"', '\"']
   ]);
       
+
   
   userInputScript.addEventListener('input', function (e) {
   
@@ -32,12 +33,27 @@ let vietNamProgLangToJavaScriptToDictionary = {
     "viết" : "currentResult.push",
     "nếu" : "if",
     "không_thì" : "else",
-    "_không" : "!",
+    "không_" : "!",
     "đồng_thời" : "&&",
     "hoặc" : "||",
     "==" : "===",
     "cho_hàm" : "function",
-    "ra" : "return"
+    "ra" : "return",
+    "chạy_khi" : "while",
+    "tiếp_tục" : "continue",
+    "dừng_lại" :"break",
+    "với_mỗi" : "for",
+    "của_tập" : "of",
+    "các_pt_sẽ" : "forEach",
+    "lọc_với_đk" : "filter",
+    "tồn_tại" : "includes",
+    "tồn_tại_pt_thõa_đk" : "some",
+    "đều_thõa_mãn_đk" : "every",
+    "chuyển_đổi" : "map",
+    "lấy_về_các_pt_cuối" : "flat",
+    "tìm_pt_thõa_đk" : "find",
+    "sắp_xếp_với_đk" : "sort",
+    "tự_đảo_ngược" : "reverse"
 };
 
 
@@ -50,12 +66,19 @@ runButton.addEventListener("click", ()=>{
     let currentResult = [];
     let script = userInputScript.value;
 
+    console.log(script);
+
     vietNamProgLanVocs.forEach(key =>
          script = script.replace(new RegExp(key, 'g'), vietNamProgLangToJavaScriptToDictionary[key])
     );
+
+    console.log(script);
 
     eval(script);
     output.innerText = "";
 
     output.innerHTML = currentResult.join('\r\n');
 });
+
+
+
