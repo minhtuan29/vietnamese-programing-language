@@ -1,11 +1,12 @@
 # Vietnamese programing language
+
+
+https://user-images.githubusercontent.com/86332370/193102051-60226b19-8fdf-448d-a9f6-cd1906117427.mp4
+
+
 visit this link to use: https://minhtuan29.github.io/vietnamese-programing-language/  
 
-Click the image below to watch demo  
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kYFj1l_SZsE/0.jpg)](https://www.youtube.com/watch?v=kYFj1l_SZsE)   
-  
-
-![haivl](https://user-images.githubusercontent.com/86332370/151216632-1f4e69a9-6637-4323-a309-616a1496234b.PNG)  
+ 
 ## Core Base, How can I do
 I do not create new Tree Base for my programming language, I just reuse JavaScript available
 ![345](https://user-images.githubusercontent.com/86332370/159822541-c4803ca9-a5b5-4726-ab65-7939be965cce.PNG)  
