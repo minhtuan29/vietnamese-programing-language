@@ -2,8 +2,7 @@
 
 
 https://user-images.githubusercontent.com/86332370/193102051-60226b19-8fdf-448d-a9f6-cd1906117427.mp4
-
-
+    
 visit this link to use: https://minhtuan29.github.io/vietnamese-programing-language/  
 
  
