@@ -1,1 +1,78 @@
-var _0x3bc508=_0x3666;function _0x2ce6(){var _0x4793e9=['485654oFOXWg','20sWKKnx','5869820sVFiBU','2\x2035=19.18(\x22108\x22);2\x2014=19.18(\x2241\x22);2\x2010=19.18(\x2210\x22);9\x2034=36\x2053([[\x27{\x27,\x27}\x27],[\x27[\x27,\x27]\x27],[\x27(\x27,\x27)\x27],[\x27\x5c\x27\x27,\x27\x5c\x27\x27],[\x27\x5c\x22\x27,\x27\x5c\x22\x27]]);14.37(\x2755\x27,29(8){9\x207=8.12.56;9\x2013=[...8.12.15];9\x2033=13.61(7-1,7)[0];9\x2016=34.63(33);30(16){13.43(7,0,16);8.12.15=13.39(\x27\x27);8.12.62=7}});2\x2021={\x2260\x20\x22:\x222\x20\x22,\x2259ế4\x22:\x2220.58\x22,\x2222ế57\x22:\x2230\x22,\x2226ô27ì\x22:\x2252\x22,\x2226ô54\x22:\x22!\x22,\x22đồ27ờ3\x22:\x22&&\x22,\x2245ặ6\x22:\x22||\x22,\x22==\x22:\x22===\x22,\x2251à42\x22:\x2229\x22,\x2240\x22:\x2244\x22,\x2246ạ47\x22:\x2248\x22,\x2249ế50ụ6\x22:\x2265\x22,\x2264ừ67ạ3\x22:\x2277\x22,\x2290ớ91ỗ3\x22:\x2292\x22,\x226ủ93ậ94\x22:\x2295\x22,\x226á96ẽ\x22:\x2238\x22,\x2224ọ97ớ31đ5\x22:\x2289\x22,\x224ồ28ạ3\x22:\x2266\x22,\x224ồ28ạ100õ23đ5\x22:\x22101\x22,\x22đề102õ103ã25đ5\x22:\x22104\x22,\x22105ể25đổ3\x22:\x22106\x22,\x2224ấ107ề99á88ố3\x22:\x2287\x22,\x224ì86õ23đ5\x22:\x2269\x22,\x2270ắ71ế72ớ31đ5\x22:\x2273\x22,\x224ự74đả75ượ6\x22:\x2268\x22};2\x2032=76.78(21);35.37(\x2279\x22,()=>{2\x2020=[];2\x2011=14.15;32.38(17=>11=11.80(36\x2081(17,\x2782\x27),21[17]));83(11);10.84=\x22\x22;10.85=20.39(\x27\x5c98\x5c22\x27)});','||let|i|t|k|c|pos|e|const|output|script|target|val|userInputScript|value|closeChar|key|getElementById|document|currentResult|vietNamProgLangToJavaScriptToDictionary|n|a_|l|n_|kh|ng_th|n_t|function|if|i_|vietNamProgLanVocs|char|closeChars|runButton|new|addEventListener|forEach|join|ra|user_input|m|splice|return|ho|ch|y_khi|while|ti|p_t|cho_h|else|Map|ng_|input|selectionStart|u|push|vi|cho|slice|selectionEnd|get|d|continue|includes|ng_l|reverse|find|s|p_x|p_v|sort|_|o_ng|Object|break|keys|click|replace|RegExp|g|eval|innerText|innerHTML|m_pt_th|flat|c_pt_cu|filter|v|i_m|for|a_t|p|of|c_pt_s|c_v|r|_c|i_pt_th|some|u_th|a_m|every|chuy|map|y_v|run_button','764XHRtuS','1094448BXsqpv','5890AhcvzT','1422ncRWvC','368jEWIxh','2801466xsrehW','6087FdqDzv','\x5cw+','replace','113939JuKaAt'];_0x2ce6=function(){return _0x4793e9;};return _0x2ce6();}function _0x3666(_0x260731,_0x104722){var _0x2ce679=_0x2ce6();return _0x3666=function(_0x366611,_0x292ecf){_0x366611=_0x366611-0x1ab;var _0x5795c1=_0x2ce679[_0x366611];return _0x5795c1;},_0x3666(_0x260731,_0x104722);}(function(_0xd748c4,_0xfe7a7f){var _0x21c43c=_0x3666,_0x55346c=_0xd748c4();while(!![]){try{var _0x3d6a30=parseInt(_0x21c43c(0x1b4))/0x1+-parseInt(_0x21c43c(0x1b9))/0x2*(-parseInt(_0x21c43c(0x1b0))/0x3)+parseInt(_0x21c43c(0x1ab))/0x4+parseInt(_0x21c43c(0x1ac))/0x5*(-parseInt(_0x21c43c(0x1ad))/0x6)+parseInt(_0x21c43c(0x1b3))/0x7*(-parseInt(_0x21c43c(0x1ae))/0x8)+-parseInt(_0x21c43c(0x1af))/0x9*(parseInt(_0x21c43c(0x1b5))/0xa)+parseInt(_0x21c43c(0x1b6))/0xb;if(_0x3d6a30===_0xfe7a7f)break;else _0x55346c['push'](_0x55346c['shift']());}catch(_0xb1b77b){_0x55346c['push'](_0x55346c['shift']());}}}(_0x2ce6,0x65ed0),eval(function(_0x47af27,_0x1052e0,_0x3cf465,_0x26ce68,_0x354c28,_0xb3331a){var _0xc5050f=_0x3666;_0x354c28=function(_0x95ea63){return _0x95ea63;};if(!''[_0xc5050f(0x1b2)](/^/,String)){while(_0x3cf465--){_0xb3331a[_0x3cf465]=_0x26ce68[_0x3cf465]||_0x3cf465;}_0x26ce68=[function(_0x3eb0fc){return _0xb3331a[_0x3eb0fc];}],_0x354c28=function(){var _0x2d4b2b=_0xc5050f;return _0x2d4b2b(0x1b1);},_0x3cf465=0x1;};while(_0x3cf465--){_0x26ce68[_0x3cf465]&&(_0x47af27=_0x47af27[_0xc5050f(0x1b2)](new RegExp('\x5cb'+_0x354c28(_0x3cf465)+'\x5cb','g'),_0x26ce68[_0x3cf465]));}return _0x47af27;}(_0x3bc508(0x1b7),0xa,0x6d,_0x3bc508(0x1b8)['split']('|'),0x0,{})));
+let runButton = document.getElementById("run_button");
+let userInputScript = document.getElementById("user_input");
+let output = document.getElementById("output");
+
+const closeChars = new Map([
+    ['{', '}'],
+    ['[', ']'],
+    ['(', ')'],
+    ['\'', '\''],
+    ['\"', '\"']
+  ]);
+      
+
+  
+  userInputScript.addEventListener('input', function (e) {
+  
+      const pos = e.target.selectionStart;
+      const val = [...e.target.value];
+      
+      const char = val.slice(pos-1, pos)[0];
+      const closeChar = closeChars.get(char);
+      
+      if (closeChar) {
+        val.splice(pos, 0, closeChar);
+        e.target.value = val.join('');
+        e.target.selectionEnd = pos;
+      }
+  });
+
+
+let vietNamProgLangToJavaScriptToDictionary = {
+    "cho " : "let ",
+    "viết" : "currentResult.push",
+    "nếu" : "if",
+    "không_thì" : "else",
+    "không_" : "!",
+    "đồng_thời" : "&&",
+    "hoặc" : "||",
+    "==" : "===",
+    "cho_hàm" : "function",
+    "ra " : "return ",
+    "chạy_khi" : "while",
+    "tiếp_tục" : "continue",
+    "dừng_lại" :"break",
+    "với_mỗi" : "for",
+    "của_tập" : "of",
+    "các_pt_sẽ" : "forEach",
+    "lọc_với_đk" : "filter",
+    "tồn_tại" : "includes",
+    "tồn_tại_pt_thõa_đk" : "some",
+    "đều_thõa_mãn_đk" : "every",
+    "chuyển_đổi" : "map",
+    "lấy_về_các_pt_cuối" : "flat",
+    "tìm_pt_thõa_đk" : "find",
+    "sắp_xếp_với_đk" : "sort",
+    "tự_đảo_ngược" : "reverse"
+};
+
+
+
+let vietNamProgLanVocs = Object.keys(vietNamProgLangToJavaScriptToDictionary);
+
+
+
+
+runButton.addEventListener("click", ()=>{
+    let currentResult = [];
+    let script = userInputScript.value;
+
+    vietNamProgLanVocs.forEach(key =>
+         script = script.replace(new RegExp(key, 'g'), vietNamProgLangToJavaScriptToDictionary[key])
+    );
+
+    eval(script);
+    output.innerText = "";
+    output.innerHTML = currentResult.join('\r\n');
+});
+
