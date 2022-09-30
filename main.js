@@ -2,36 +2,7 @@
 /* 
 
 
-
-
-
-
-    tự giải toán trước khi xem lời giải là cách mình học tập.  2 ngày. . . 3 ngày . . .
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    tự giải toán trước khi xem lời giải là cách mình học tập.  2 ngày. . . 3 ngày . . .. chịu thua :))
 
 
 */
